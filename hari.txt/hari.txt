@@ -1,0 +1,8 @@
+d:
+dir
+create a folder 
+add content
+save 
+add file
+commit
+push to github
